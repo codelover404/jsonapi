@@ -1,12 +1,14 @@
+
+
 {
-  "landingPages": [
+  "landingPages"[
     {
       "id": 1,
       "title": "School Dashboard",
       "link": "https://school-dashboard404.netlify.app/",
       "img":"https://codelover404.github.io/jsonapi/website/img1.png",
       "type":"landingPage",
-      "cat":"education"
+      "cat":"education",
     },
     {
       "id": 2,
@@ -14,7 +16,7 @@
       "link": "https://carrental404.netlify.app",
       "img":"https://codelover404.github.io/jsonapi/website/img2.png",
       "type":"Multi Page",
-      "cat":"business"
+      "cat":"business",
     },
      {
       "id": 3,
@@ -22,7 +24,7 @@
       "link": "https://doorway.nyc/",
       "img":"https://codelover404.github.io/jsonapi/website/img3.png",
       "type":"Multi Page",
-       "cat":"business"
+       "cat":"business",
      },
      {
       "id": 4,
@@ -30,7 +32,7 @@
       "link": "https://empireal404.netlify.app",
       "img":"https://codelover404.github.io/jsonapi/website/img4.png",
       "type":"Multi Page",
-       "cat":"business"
+       "cat":"business",
     },
     {
       "id": 5,
@@ -38,7 +40,7 @@
       "link": "https://lekate.netlify.app/",
       "img":"https://codelover404.github.io/jsonapi/website/img5.png",
       "type":"Multi Page",
-      "cat":"education"
+      "cat":"education",
     },
      {
       "id": 6,
@@ -46,7 +48,7 @@
       "link": "https://nft-site-demo.netlify.app",
       "img":"https://codelover404.github.io/jsonapi/website/img6.png",
       "type":"landingPage",
-       "cat":"landingpage"
+       "cat":"landingpage",
     },
      {
       "id": 7,
@@ -54,7 +56,7 @@
       "link": "https://redstore404.netlify.app",
       "img":"https://codelover404.github.io/jsonapi/website/img7.png",
       "type":"Multi Page",
-       "cat":"ecommerce"
+       "cat":"ecommerce",
     },
     {
       "id": 8,
@@ -62,7 +64,7 @@
       "link": "https://workwise404.netlify.app/",
       "img":"https://codelover404.github.io/jsonapi/website/img1.png",
       "type":"multipage",
-      "cat":"socialmedia"
+      "cat":"socialmedia",
     }
   ]
   
