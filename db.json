@@ -13,6 +13,20 @@
       "link": "https://nft-site-demo.netlify.app",
       "img":"https://codelover404.github.io/jsonapi/website/img6.png",
       "type":"landingPage"
+    },
+     {
+      "id": 2,
+      "title": "NFT Showcase",
+      "link": "https://nft-site-demo.netlify.app",
+      "img":"https://codelover404.github.io/jsonapi/website/img6.png",
+      "type":"landingPage"
+     },
+     {
+      "id": 2,
+      "title": "NFT Showcase",
+      "link": "https://nft-site-demo.netlify.app",
+      "img":"https://codelover404.github.io/jsonapi/website/img6.png",
+      "type":"landingPage"
     }
   ]
   
