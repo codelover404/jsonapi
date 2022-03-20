@@ -5,29 +5,65 @@
       "title": "School Dashboard",
       "link": "https://school-dashboard404.netlify.app/",
       "img":"https://codelover404.github.io/jsonapi/website/img1.png",
-      "type":"landingPage"
+      "type":"landingPage",
+      "cat":"education"
     },
     {
       "id": 2,
-      "title": "NFT Showcase",
-      "link": "https://nft-site-demo.netlify.app",
-      "img":"https://codelover404.github.io/jsonapi/website/img6.png",
-      "type":"landingPage"
+      "title": "Car Rental System",
+      "link": "https://carrental404.netlify.app",
+      "img":"https://codelover404.github.io/jsonapi/website/img2.png",
+      "type":"Multi Page",
+      "cat":"business"
     },
      {
-      "id": 2,
-      "title": "NFT Showcase",
-      "link": "https://nft-site-demo.netlify.app",
-      "img":"https://codelover404.github.io/jsonapi/website/img4.png",
-      "type":"landingPage"
+      "id": 3,
+      "title": "Doorway Enterpirses",
+      "link": "https://doorway.nyc/",
+      "img":"https://codelover404.github.io/jsonapi/website/img3.png",
+      "type":"Multi Page",
+       "cat":"business"
      },
      {
-      "id": 2,
-      "title": "NFT Showcase",
+      "id": 4,
+      "title": "Imperial",
+      "link": "https://empireal404.netlify.app",
+      "img":"https://codelover404.github.io/jsonapi/website/img4.png",
+      "type":"Multi Page",
+       "cat":"business"
+    },
+    {
+      "id": 5,
+      "title": "Education System",
+      "link": "https://lekate.netlify.app/",
+      "img":"https://codelover404.github.io/jsonapi/website/img5.png",
+      "type":"Multi Page",
+      "cat":"education"
+    },
+     {
+      "id": 6,
+      "title": "NFT showcase",
       "link": "https://nft-site-demo.netlify.app",
-      "img":"https://codelover404.github.io/jsonapi/website/img3.png",
-      "type":"landingPage"
-    }
+      "img":"https://codelover404.github.io/jsonapi/website/img6.png",
+      "type":"landingPage",
+       "cat":"landingpage"
+    },
+     {
+      "id": 7,
+      "title": "Red Store",
+      "link": "https://redstore404.netlify.app",
+      "img":"https://codelover404.github.io/jsonapi/website/img7.png",
+      "type":"Multi Page",
+       "cat":"ecommerce"
+    },
+    {
+      "id": 8,
+      "title": "Social Media",
+      "link": "https://workwise404.netlify.app/",
+      "img":"https://codelover404.github.io/jsonapi/website/img1.png",
+      "type":"multipage",
+      "cat":"socialmedia"
+    },
   ]
   
 }
