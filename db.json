@@ -1,7 +1,5 @@
 
-
 {
-  "landingPages"[
     {
       "id": 1,
       "title": "School Dashboard",
@@ -66,6 +64,6 @@
       "type":"multipage",
       "cat":"socialmedia",
     }
-  ]
+ 
   
 }
